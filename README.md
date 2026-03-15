@@ -1,0 +1,1 @@
+This repository contains the final project for UGST4090: Introduction to Optimization. The focus of this work is Sensitivity Analysis, a critical post-optimality procedure used to determine how the variation in the output of a mathematical model can be apportioned to different sources of variation in its inputs.
